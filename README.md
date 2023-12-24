@@ -5,7 +5,7 @@ Software engineering student
 ----------------------------
 
 * 🌍  I'm based in Finland, Tampere
-* ✉️  You can contact me at [tam.phuong@edu.savonia.fi](mailto:tam_phuong@outlook.com)
+* ✉️  You can contact me at [tam_phuong@outlook.com](mailto:tam_phuong@outlook.com)
 * 🧠  I'm learning Python
 
 ### Skills
