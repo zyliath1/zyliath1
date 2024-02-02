@@ -6,7 +6,7 @@ Software engineering student
 
 * 🌍  I'm based in Finland, Tampere
 * ✉️  You can contact me at [tam_phuong@outlook.com](mailto:tam_phuong@outlook.com)
-* 🧠  I'm learning Java
+* 🧠🎯  Currently, I'm advancing my skills in Java, HTML, CSS, and TypeScript through a project aimed at developing a comprehensive information system. This system includes service management, cottage reservations management, customer management, invoice management and tracking, as well as detailed reporting capabilities.
 
 ### Skills
 
