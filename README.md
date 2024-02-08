@@ -5,7 +5,7 @@ Software engineering student
 ----------------------------
 
 * 🌍  I'm based in Finland, Tampere
-* 🖥️   Check out my website [portfolio](http://tam-phuong.vercel.app/)
+* 🖥️  Check out my website [portfolio](http://tam-phuong.vercel.app/)
 * ✉️  You can contact me at [tam_phuong@outlook.com](mailto:tam_phuong@outlook.com)
 * 🧠🎯  Currently, I'm advancing my skills in Java, HTML, CSS, and TypeScript through a project aimed at developing a comprehensive system admin software. This system includes service management, cottage reservations management, customer management, invoice management and tracking, as well as detailed reporting capabilities.
 
